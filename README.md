@@ -1,4 +1,4 @@
-#📦 Sistema de Controle de Estoque em Python
+📦 Sistema de Controle de Estoque em Python
 
 Aplicação de linha de comando desenvolvida em Python para gerenciamento de produtos, utilizando SQLite para persistência de dados.
 
