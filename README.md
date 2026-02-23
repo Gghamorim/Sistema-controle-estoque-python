@@ -1,2 +1,17 @@
-# Sistema-controle-estoque-python
-Recentemente fiz esse simples projeto de sistema de controle de estoque em Python com SQLite, utilizando arquitetura em camadas e operações CRUD.
+#📦 Sistema de Controle de Estoque em Python
+
+Aplicação de linha de comando desenvolvida em Python para gerenciamento de produtos, utilizando SQLite para persistência de dados.
+
+🚀 Funcionalidades
+- Cadastro de produtos
+- Listagem de produtos
+- Atualização de dados
+- Remoção de produtos
+
+🛠️ Tecnologias
+- Python
+- SQLite
+
+▶️ Como executar
+```bash
+python main.py
